@@ -5,7 +5,6 @@ All development , Course useful website list
 
 Web Sites For IT Training  Programming, Web Development, Networking and More by
 
-http://t.me/learn_programming_coding
 
 1. www.codecademy.com 
 2. www.lynda.com 
@@ -53,7 +52,6 @@ http://t.me/learn_programming_coding
 44. www.microsoftvirtualacademy.com 
 45. www.professormesser.com .
 
-@learn_programming_coding
 
 *Photoshop and Graphics*
 ****
@@ -73,7 +71,7 @@ http://t.me/learn_programming_coding
 @learn_programming_coding
 
 
-*Programing and Other IT Projects*
+
 *************
 1. www.freeprojectscode.com 
 2. www.sourcecodesworld.com
@@ -89,7 +87,7 @@ http://t.me/learn_programming_coding
 12. www.creately.com/diagram-examples 
 13. www.freewebsite.com
 
-@learn_programming_coding
+
 
 
 *Photoshop and Graphics*
@@ -107,7 +105,7 @@ http://t.me/learn_programming_coding
 11. www.psdlearning.com
 12. www.alison.com
 
-@learn_programming_coding
+
 
 
 
@@ -126,7 +124,6 @@ http://t.me/learn_programming_coding
 11. www.peopleperhour.com
 12 www.peopleperhour.com
 
-@learn_programming_coding
 
 *Very Good Sites for Freelancers*
 ************
